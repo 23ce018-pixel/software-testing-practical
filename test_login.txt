@@ -1,0 +1,9 @@
+Test Script: Login Module
+
+Test Case 1: Valid login
+Input: Correct username and password
+Expected Result: Login successful
+
+Test Case 2: Invalid password
+Input: Correct username and wrong password
+Expected Result: Error message displayed

@@ -1,0 +1,9 @@
+Test Script: Registration Module
+
+Test Case 1: Valid registration
+Input: Valid name, email, and password
+Expected Result: Registration successful
+
+Test Case 2: Missing email
+Input: Name and password entered, email blank
+Expected Result: Required-field error displayed

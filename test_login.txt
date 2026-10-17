@@ -7,3 +7,7 @@ Expected Result: Login successful
 Test Case 2: Invalid password
 Input: Correct username and wrong password
 Expected Result: Error message displayed
+
+Test Case 3: Empty username
+Input: Username left blank
+Expected Result: Required-field error displayed
